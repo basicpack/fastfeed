@@ -3,7 +3,7 @@
 //10 de abril de 2019
 //http://archive.is/CV6cV
 
-require_once ROOT.'vendor/autoload.php';
+require __DIR__.'/vendor/autoload.php';
 
 use FastFeed\Factory;
 
