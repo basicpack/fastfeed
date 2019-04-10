@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fastfeed/fastfeed": "^0.4.0"
+    }
+}
