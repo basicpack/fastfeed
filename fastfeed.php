@@ -7,6 +7,6 @@ require __DIR__.'/vendor/autoload.php';
 
 use FastFeed\Factory;
 
-function fasteed(){
+function fastfeed(){
     return Factory::create();
 }
